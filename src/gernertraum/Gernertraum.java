@@ -15,8 +15,7 @@ public class Gernertraum {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Gerner2 g2 = new Gerner2();
-        g2.m();
+        System.out.println("main");
     }
     
 }

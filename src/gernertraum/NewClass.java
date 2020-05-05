@@ -9,8 +9,6 @@ package gernertraum;
  *
  * @author VeitSchilcher
  */
-public class Gerner2 {
-    public void m(){
-        System.out.println("In m");
-    }         
+public class NewClass {
+    
 }
